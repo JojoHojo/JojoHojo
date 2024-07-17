@@ -1,5 +1,7 @@
 <!-- ## Hi there 👋 -->
 
+<!-- Web Developer | Android Developer | Python & Java Programmer. -->
+
 <h3>Hi 👋 I'm Georgia Georgiadou</h3>
 
 <ul>
