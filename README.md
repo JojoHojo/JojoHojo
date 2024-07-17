@@ -6,7 +6,7 @@
 <li>Enthusiastic about IT.</li>
 <li>Final Year Student at the Department of Information and Electronic Engineering. </li>
 <li>Currently working with Android projects.</li> <br>
-- 📫 How to reach me georgiapella@hotmail.com
+- 📫 How to reach me: georgiapella@hotmail.com 
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
